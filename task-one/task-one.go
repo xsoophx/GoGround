@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // Beispiel: Funktion, die "Hallo Welt!" ausgibt und zurückgibt.
 // Example: Function that prints and returns "Hello World!"
 func printHallo() string {
@@ -210,12 +208,4 @@ func findCommonElements(a, b []int) []int {
 func isOdd(a int) bool {
 	// TODO: Implementiere diese Funktion / Implement this function
 	return false
-}
-
-func main() {
-	// Beispiel-Aufruf der Funktionen
-	// Example of calling functions
-	fmt.Println(printHallo())
-	// Weitere Funktionsaufrufe können hier hinzugefügt werden.
-	// More function calls can be added here.
 }
