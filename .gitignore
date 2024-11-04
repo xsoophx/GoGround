@@ -1,0 +1,8 @@
+# MacOS
+.DS_Store
+
+# Solutions
+task-one/task-one-solution.go
+
+# Theming
+.idea/material_theme_project_new.xml
